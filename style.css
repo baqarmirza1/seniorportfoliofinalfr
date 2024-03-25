@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.header{
+text-align: center;
+font-size: 50px;
+background-color: #de9ef0;
+font-weight: 800;
+padding: 20px;
+margin: 0px 160px 0px 160px;
+}
+
+h2{
+  text-align: center; 
+}
+
